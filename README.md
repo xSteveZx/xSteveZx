@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steve</h1>
 <h3 align="center">Aspiring Data Scientist/ Data Analyst</h3>
 
-- 👨‍💻 All of my projects are available at [https://public.tableau.com/app/profile/stevezzyd/vizzes](https://public.tableau.com/app/profile/stevezzyd/vizzes)
-- 📝 Occasionally I write on [https://stevezhang97.wordpress.com/] (https://stevezhang97.wordpress.com/)
+- 🏝️ My projects can be found here https://github.com/xSteveZx
+- 👨‍💻 My dashboard designs are available at [https://public.tableau.com/app/profile/stevezzyd/vizzes](https://public.tableau.com/app/profile/stevezzyd/vizzes)
+- 📝 Occasionally I write on https://stevezhang97.wordpress.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
