@@ -2,6 +2,7 @@
 <h3 align="center">Aspiring Data Scientist/ Data Analyst</h3>
 
 - 🏝️ My projects can be found here https://github.com/xSteveZx
+- I practice regularly on https://leetcode.com/u/SteveZyd/
 - 👨‍💻 My dashboard designs are available at [https://public.tableau.com/app/profile/stevezzyd/vizzes](https://public.tableau.com/app/profile/stevezzyd/vizzes)
 - 📝 Occasionally I write on https://stevezhang97.wordpress.com/
 
