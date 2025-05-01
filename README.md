@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Steve</h1>
+<h1 align="center">👋 Hello World, I'm Steve</h1>
 <h3 align="center">Aspiring Data Scientist/ Data Analyst</h3>
 
 - 🏝️ My projects can be found here https://github.com/xSteveZx
